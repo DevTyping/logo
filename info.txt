@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: LeagueMono-Light
+font link: https://www.tylerfinck.com/shop/league-mono/
+font author: Tyler Finck
+font author site: https://www.tylerfinck.com/
+
+
+icon designer: Muneer A.Safiah
+icon designer link: /mabusafiah
+        
+{"bg":"transparent","font":"#2e3034","icon":"#488eff","slogan":"#424448"}
+      
